@@ -5,6 +5,7 @@ MERN = MongoDB + Express + React + NodeJS
 Based on mern.js.org tutorial https://www.mongodb.com/languages/mern-stack-tutorial
 with changes, adopt tutorial to actual stable versions of React and NodeJS (see dependencies)
 
-in addition to this repo you should create config.env file in root directory:
+in addition to this repo you should create <code>config.env</code> file in root directory:
+
 <code>ATLAS_URI=mongodb+srv://<YOUR-ATLAS-KEY>/<YOUR-ATLAS-DB>?retryWrites=true&w=majority
 PORT=5000</code>
