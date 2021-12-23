@@ -7,6 +7,7 @@ with changes, adopt tutorial to actual stable versions of React and NodeJS (see 
 
 in addition to this repo you should create <code>config.env</code> file in root directory:
 
-<code>ATLAS_URI=mongodb+srv://<YOUR-ATLAS-KEY>/<YOUR-ATLAS-DB>?retryWrites=true&w=majority
-
-PORT=5000</code>
+<code>
+ATLAS_URI=mongodb+srv://<YOUR-ATLAS-KEY>/<YOUR-ATLAS-DB>?retryWrites=true&w=majority
+PORT=5000
+</code>
